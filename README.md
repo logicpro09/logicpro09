@@ -69,10 +69,6 @@ I enjoy building end-to-end AI pipelines, applying mathematics to real-world pro
 ---
 
 ## GitHub Stats
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=logicpro09&show_icons=true&theme=default&count_private=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=logicpro09&layout=compact&theme=default)  
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=logicpro09&theme=default)  
 
 ---
@@ -80,7 +76,6 @@ I enjoy building end-to-end AI pipelines, applying mathematics to real-world pro
 ## Contact
 - [LinkedIn](https://linkedin.com/in/victorjsalcedo/)  
 - [Email](mailto:info@salixlogic.com)  
-- [Portfolio Website](https://logicpro09.github.io)  
 
 ---
 
