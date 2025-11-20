@@ -51,20 +51,12 @@ I enjoy building end-to-end AI pipelines, applying mathematics to real-world pro
 ---
 
 ## Featured Projects
-- [Stock Price Prediction with LSTM]()  
-  Forecasting AAPL stock prices using LSTM and sentiment analysis features.  
 
-- [Crypto Forecasting with Space and Time SDK]()  
-  Leveraged decentralized data pipelines and Zero-Knowledge Proofs to analyze cryptocurrency markets, integrating on-chain and off-chain data with deep learning models.  
+- [Stock Price Prediction with LSTM](https://github.com/TEJSINGH17/USD-MS-AAI_501_GRP8/blob/main/MSAAI_501_PROJECT_GRP8%20git%20draft.ipynb)  
+  Forecasting AAPL stock prices using LSTM and sentiment analysis features.
 
-- [Energy-Based Models Research]()  
-  Exploratory work on energy-based models as a foundation for future AGI research.  
-
-- [Credit Card Fraud Detection (Autoencoder)]()  
-  Anomaly detection system for fraud detection using deep learning.  
-
-- [Fitness App with Pose Estimation]()  
-  Real-time AR/VR prototype for workout form correction using computer vision.  
+- [Term Deposit Subscription Prediction Using Machine Learning](https://github.com/TEJSINGH17/ms-aai-510-grp5/blob/main/AAI_510_5_final_Project.ipynb)  
+  Built classification models to predict customer likelihood of subscribing to term deposits using demographic, behavioral, and campaign-based banking data.
 
 ---
 
