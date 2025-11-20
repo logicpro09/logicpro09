@@ -58,6 +58,10 @@ I enjoy building end-to-end AI pipelines, applying mathematics to real-world pro
 - [Term Deposit Subscription Prediction Using Machine Learning](https://github.com/TEJSINGH17/ms-aai-510-grp5/blob/main/AAI_510_5_final_Project.ipynb)  
   Built classification models to predict customer likelihood of subscribing to term deposits using demographic, behavioral, and campaign-based banking data.
 
+  - [Autonomous AI Pipeline for Perception, Prediction, and Control](https://github.com/logicpro09/Autonomy_AI_Pipeline/blob/main/Autonomy_AI_Pipeline.ipynb)  
+  Designed an end-to-end autonomy workflow integrating perception, forecasting, and control modules. Developed CNN-LSTM architectures for environment understanding, trained reinforcement learning agents for navigation, and optimized models for real-time edge deployment using ONNX and quantization.
+
+
 ---
 
 ## GitHub Stats
