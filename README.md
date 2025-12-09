@@ -6,16 +6,17 @@ San Diego, CA
 ---
 
 ## About Me
-I am a graduate student in Applied Artificial Intelligence (M.S.) with a strong background in cognitive science, mathematics, and data science.  
-My focus areas include:  
-- Machine Learning & Deep Learning (CNNs, LSTMs, Transformers, Energy-Based Models)  
-- Energy-Based Models as a pathway to AGI research  
-- Quantitative Finance, Cryptocurrency Forecasting, and Predictive Analytics  
-- Decentralized data integration with the Space and Time SDK, using Zero-Knowledge Proofs for secure, verifiable crypto and financial pipelines  
-- Data Science & Statistical Modeling  
-- MLOps & Model Deployment  
+I am an AI and machine learning engineer with a background in cognitive science, mathematics, and applied data science. My work focuses on AI infrastructure, model inference performance, and building practical systems that improve the efficiency and reliability of modern machine learning models.
 
-I enjoy building end-to-end AI pipelines, applying mathematics to real-world problems, and exploring the intersection of AI, business strategy, and emerging technologies. My current work bridges advanced machine learning with financial modeling, including the application of EBMs to high-frequency crypto markets.
+My focus areas include:
+- High-performance machine learning and deep learning (CNNs, LSTMs, transformers)
+- Model inference optimization using vLLM, PyTorch, and Triton
+- GPU-oriented engineering, kernel exploration, and performance benchmarking
+- Distributed and scalable ML systems using Ray and containerized workflows
+- Reproducible evaluation pipelines and MLOps-aligned deployment practices
+
+I enjoy designing end-to-end AI systems, optimizing model performance, and building tools that connect engineering rigor with real-world applications. My current work through SalixLogic centers on AI infrastructure, model serving, and the systems-level challenges behind efficient large-model deployment.
+
 
 ---
 
