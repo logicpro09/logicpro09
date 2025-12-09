@@ -1,6 +1,6 @@
-# Hi, I'm Victor Salcedo  
+# Victor Salcedo  
 
-**Machine Learning Engineer & Data Scientist | Founder at SalixLogic | Applied AI Graduate Student**  
+**AI Infrastructure Engineer | LLM Inference • GPU Optimization • Distributed ML Systems | SalixLogic**  
 San Diego, CA  
 
 ---
